@@ -1,6 +1,4 @@
-<img src="https://nes.io/press-kit/nes-symbol.svg" width="140"/>
-
-# Node EcoSystem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![nes.io](https://nes.io/img/nes-badge.svg)](https://nes.io)
+# Node EcoSystem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of projects, tools, and resources for the nes platform.
 
